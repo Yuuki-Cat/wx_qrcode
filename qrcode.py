@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# author zyh
+# author Yuuki-Cat
 import requests as req
 from PIL import Image
 from io import BytesIO
